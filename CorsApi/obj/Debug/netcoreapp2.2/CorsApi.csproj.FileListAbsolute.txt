@@ -1,0 +1,14 @@
+C:\_estudos\CorsApi\CorsApi\bin\Debug\netcoreapp2.2\CorsApi.deps.json
+C:\_estudos\CorsApi\CorsApi\bin\Debug\netcoreapp2.2\CorsApi.runtimeconfig.json
+C:\_estudos\CorsApi\CorsApi\bin\Debug\netcoreapp2.2\CorsApi.runtimeconfig.dev.json
+C:\_estudos\CorsApi\CorsApi\bin\Debug\netcoreapp2.2\CorsApi.dll
+C:\_estudos\CorsApi\CorsApi\bin\Debug\netcoreapp2.2\CorsApi.pdb
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.csprojAssemblyReference.cache
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.csproj.CoreCompileInputs.cache
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.RazorAssemblyInfo.cache
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.RazorAssemblyInfo.cs
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.AssemblyInfoInputs.cache
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.AssemblyInfo.cs
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.RazorTargetAssemblyInfo.cache
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.dll
+C:\_estudos\CorsApi\CorsApi\obj\Debug\netcoreapp2.2\CorsApi.pdb
